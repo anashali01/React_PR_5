@@ -11,9 +11,9 @@ Currently, two official plugins are available:
 
 This project converts a Bootstrap static template into a React app (Vite + React). It modernizes the UI and organizes the template into React components while preserving the original assets in `public`.
 
-![Output screenshot](public/assets/img/screenshot.png)
+![Output screenshot](assets/img/screenshot.png)
 
-**Live Demo**: https://your-deployment-url.example.com  
+**Live Demo**: [https://your-deployment-url.example.com](https://react-pr-5.vercel.app/)  
 **Local (dev)**: `http://localhost:5173`
 
 **Overview**
